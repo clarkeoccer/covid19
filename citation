@@ -1,0 +1,5 @@
+Publisher Centers for Medicare & Medicaid Services. (2024, January 19). Skilled nursing facility cost report. Catalog. https://catalog.data.gov/dataset/skilled-nursing-facility-cost-report-cd2b7 
+
+My data set shows the costs of each hospital around the united states with each state, city, and the county depending on the population on how many beds they have or ones that are available. And the length of stay for patiens there. They would use it to compare the costs of each hospital. 
+authors: Centers for Medicare & Medicaid Services & U.S. Department of Health & Human Services
+Facility Name- the name of the hospital, Street Address- the street address of the hospital, City- where the hospital is located, State Code- the state it is in, Zip Code- the zipcode for the hospital, County- the county the hospital is in, Number of Beds- number of beds used in a day, Total Bed Days Available- beds available that day to be used, Total Costs- total cost of the day, Contract Labor- how many contracts are made that day
